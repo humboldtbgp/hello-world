@@ -11,4 +11,4 @@ single fart to require emergency evacuation."
 
 "Chicken Fingers!"
 
-...are tasty
+"...are tasty"
