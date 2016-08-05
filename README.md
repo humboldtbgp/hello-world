@@ -10,3 +10,5 @@ single fart to require emergency evacuation."
   - Peter Slow
 
 "Chicken Fingers!"
+
+...are tasty
